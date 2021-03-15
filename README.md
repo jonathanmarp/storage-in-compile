@@ -2,6 +2,7 @@
 
 [![Github All Releases](https://img.shields.io/github/downloads/jonathanmarp/cmake-in-compile/total.svg)]()
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=jonathanmarp.cmake-in-compile)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This is the repository where you can place the compiled cmake. Which comes from the Linux architecture x32.
 If you want to contribute. you can just put it here. with other operating systems too. and different architectures.

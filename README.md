@@ -18,8 +18,14 @@ If you want to contribute. you can just put it here. with other operating system
 
 [<img alt="jonathanmarp" src="https://avatars.githubusercontent.com/u/60574415?v=4&s=50">](https://github.com/jonathanmarp) |[<img alt="thekotekjournal" src="https://avatars.githubusercontent.com/u/63573571?v=4&s=50">](https://github.com/thekotekjournal) |
 :---:|:---:|
-[jonathanmarp](https://github.com/jonathanmarp)|[thekotekjournal](https://github.com/thekotekjournal)|
+[jonathanmarp](https://github.com/jonathanmarp)
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmarp&theme=blue-green)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonathanmarp&theme=blue-green)](https://github.com/jonathanmarp/cmake-in-compile)
+
+[thekotekjournal](https://github.com/thekotekjournal)
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=thekotekjournal&theme=blue-green)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thekotekjournal&theme=blue-green)](https://github.com/jonathanmarp/cmake-in-compile)

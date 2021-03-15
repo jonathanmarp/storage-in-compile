@@ -1,4 +1,4 @@
-# cmake-linux-x86-binary
+# cmake-in-compile
 
 This is the repository where you can place the compiled cmake. Which comes from the Linux architecture x32.
 If you want to contribute. you can just put it here. with other operating systems too. and different architectures.

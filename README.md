@@ -20,10 +20,6 @@ If you want to contribute. you can just put it here. with other operating system
 :---:|:---:|
 [jonathanmarp](https://github.com/jonathanmarp)|[thekotekjournal](https://github.com/thekotekjournal)|
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmarp&theme=blue-green)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonathanmarp&theme=blue-green)](https://github.com/jonathanmarp/cmake-in-compile)
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=thekotekjournal&theme=blue-green)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thekotekjournal&theme=blue-green)](https://github.com/jonathanmarp/cmake-in-compile)

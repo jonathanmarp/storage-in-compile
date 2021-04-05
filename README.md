@@ -14,3 +14,4 @@ If you want to contribute. you can just put it here. with other operating system
 Now Release:
 - cmake
 - nodejs
+- opencv

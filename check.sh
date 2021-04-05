@@ -1,6 +1,6 @@
 # script of check.sh
 
-DIR_CHECK=("linuxi386", "windows x32")
+DIR_CHECK=("linuxi386", "windows\ x32")
 
 # color in compile
 GREEN="\033[0;32m"

@@ -14,7 +14,7 @@ for i in ${!DIR_CHECK[@]}; do
       echo "${DIR_CHECK[$i]} Its Exist\n" > logfile.log
   else
       echo "${DIR_CHECK[$i]} Its doesn't exist\n" > logfile.log
-      exit 125
+      mkdir ${DIR_CHECK[$i]}
   fi
 done
 

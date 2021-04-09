@@ -15,3 +15,4 @@ Now Release:
 - cmake
 - nodejs
 - opencv
+- WT Web Framework
